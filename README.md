@@ -237,7 +237,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Streamlit** - Web application framework
 - **ChromaDB** - Vector database
-- **Ollama** - Local LLM serving
+- **Ollama** - Local LLM serving option
+- **LocalAI** - Local LLM serving option
 - **Trafilatura** - Web content extraction
 - **Llama** - Language models
 
